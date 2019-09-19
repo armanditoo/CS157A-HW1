@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/armandobenavidez/Documents/CS157A/HW1DRAFT/HW1demo/.git">
+			<item value="false"/>
+			<item value="armandobenavidez &lt;armandobenavidez@10.250.208.73&gt;"/>
+			<item value="added the demo file to git"/>
+			<item value="armandobenavidez &lt;armandobenavidez@10.250.208.73&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

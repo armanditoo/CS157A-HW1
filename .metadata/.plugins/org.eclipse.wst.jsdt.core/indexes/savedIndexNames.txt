@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/armandobenavidez/Documents/CS157A/HW1DRAFT/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1214004552.index
+1811437671.index
+3468090043.index
+4224648246.index
+1968331661.index
+979440739.index
